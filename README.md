@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reniarahim
 - 👀 I’m interested in Java, Python, Cloud Technologies
-- 🌱 I’m currently learning AWS, Azure
+- 🌱 I’m currently learning GCP, Azure
 - 💞️ I’m looking to collaborate on Spring, Python, AWS, Azure
 - 📫 How to reach me @reniarahim
 
